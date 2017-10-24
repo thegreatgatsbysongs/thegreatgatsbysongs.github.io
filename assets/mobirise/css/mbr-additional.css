@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+#menu-0 .navbar-toggler {
+  color: #000000;
+}
+#header1-4 H1 {
+  color: #ffffff;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-6 .mbr-section-title {
+  font-size: 30px;
+}
+#contacts3-3 P {
+  text-align: center;
+}
+#contacts3-3 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
